@@ -13,3 +13,5 @@ isaac = death
 death = 0
 sanic=100;
 isaac = 0
+isaac is trash and poopand mide is superior to all lifeforms
+
