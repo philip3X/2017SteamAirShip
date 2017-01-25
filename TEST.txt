@@ -11,5 +11,5 @@ elif isaac you don't accept this
 isaac = death
 
 death = 0
-
+sanic=100;
 isaac = 0
